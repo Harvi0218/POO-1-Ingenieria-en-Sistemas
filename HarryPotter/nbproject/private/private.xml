@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/harrypotter/HarryPotter.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/vista/JFHogwarts.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/Casa.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/Elemento.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/Item.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/Personaje.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/Usuario.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/NPC.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/Hechizo.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/ObjetoMagico.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/Escenario.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/Dialogo.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/controlador/ControladorHogwarts.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/Duelo.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/GestorJuego.java</file>
+            <file>file:/Users/harveyguerrero/NetBeansProjects/HarryPotter/src/modelo/Mision.java</file>
+        </group>
+    </open-files>
+</project-private>
